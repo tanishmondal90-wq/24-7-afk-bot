@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.215.108",
-    "port": 10086,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,9 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 210,
+      "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
+        "Subscribe to non!",
+        "😮‍💨"
       ]
     },
     "chat-log": true,
